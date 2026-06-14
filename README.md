@@ -1,16 +1,14 @@
-## Hi there 👋
+# Reverse Engineer / Low‑level
 
-<!--
-**emptt/emptt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Low‑level reversing | Binary analysis | Comp. architecture
 
-Here are some ideas to get you started:
+## Toolchain
+`neovim` · `ghidra` · `edb` · `x64dbg`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+`python` · `c++` · `asm` (x86/x64)
+
+## Core
+Data structures · Algorithms · PE/ELF internals
+
+---
