@@ -1,14 +1,9 @@
-# Reverse Engineer / Low‑level
-
-Low‑level reversing | Binary analysis | Comp. architecture
+# Vulnerability researcher
 
 ## Toolchain
-`neovim` · `ghidra` · `edb` · `x64dbg`
+`neovim` · `radare2` · `gdb + pwndbg` · `x64dbg` · `QEMU`
 
 ## Languages
-`python` · `c++` · `asm` (x86/x64)
-
-## Core
-Data structures · Algorithms · PE/ELF internals
+`python3` · `c/c++` · `asm` (x86_x64, ARM)
 
 ---
